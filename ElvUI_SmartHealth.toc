@@ -1,0 +1,7 @@
+## Interface: 110002
+## Title: |cff1784d1ElvUI|r Smart Health Tag
+## Notes: Adds a custom health tag that swaps between shortvalue and percentage.
+## Author: Fortitudo Multis
+## RequiredDeps: ElvUI
+
+Core.lua
